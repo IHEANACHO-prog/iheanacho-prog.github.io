@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.iheanacho_prog.twa",
+    "sha256_cert_fingerprints": ["A1:4D:74:BE:9E:86:1E:1C:C4:70:B0:1C:63:DF:CF:B1:86:7E:A5:DC:E3:9B:0A:3A:6C:C4:29:13:2E:AA:AD:A8"]
+  }
+}]
